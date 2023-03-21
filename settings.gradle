@@ -1,0 +1,5 @@
+include ':Hard'
+include ':common'
+include ':software'
+include ':app'
+rootProject.name = "Hbb_Encode"
